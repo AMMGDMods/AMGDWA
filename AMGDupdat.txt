@@ -1,2 +1,2 @@
-{'ver1':'11', 'ver2':'00', 'ver3':'\n•يتوفر تحديث جديد
+{'ver1':'10', 'ver2':'00', 'ver3':'\n•يتوفر تحديث جديد
 Base Updated 2.24.11.80.\n•New Added Row Changer.\n•New See Original Message before Edit.\n•General Bug fixed.\n•Improved AMSMods More Features System.\n•مع تحيات فريق AMSMods Office' , 'dli':'https://t.me/AMS0_WA'}
